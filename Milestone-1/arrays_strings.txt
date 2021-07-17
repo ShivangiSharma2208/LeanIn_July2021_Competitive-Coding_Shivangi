@@ -1,0 +1,1 @@
+This is the first milestone wherein we had to solve the top interview questions asked in companies based on arrays and strings.
